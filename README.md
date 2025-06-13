@@ -1,5 +1,5 @@
 # Hi there, I'm Samraj👋
-
+📫 How to reach me: samrajk2005@gmail.com
 Building stuff that doesn’t break. (Usually.)
 
 
@@ -10,6 +10,8 @@ while (!success) {
 ---
 
 ## 🔨 Tools of My Trade
+![JAVA](![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
